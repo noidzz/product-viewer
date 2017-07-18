@@ -1,0 +1,19 @@
+.sidebar {
+	padding-left: 20%;
+	float: left;
+	width: 20%;
+}
+
+.content {
+	width: 60%;
+	float: left;
+}
+
+table {
+	border: 1px solid;
+}
+
+td {
+	text-align: center;
+	width: 200px;
+}
