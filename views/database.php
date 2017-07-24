@@ -1,7 +1,7 @@
 <?php 
-$con = 'mysql:host=localhost;dbname=e-shop';
+$con = 'mysql:host=127.0.0.1;dbname=e-shop';
 $username = 'root';
-$password = 'kunngok';
+$password = 'secret';
 
 try {
 	$db = new PDO($con, $username, $password);
